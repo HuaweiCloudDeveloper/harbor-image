@@ -2,7 +2,7 @@
 
 # 商品链接
 
-[Harbor-容器镜像仓库管理工具]()
+[Harbor-容器镜像仓库管理工具](https://marketplace.huaweicloud.com/hidden/contents/ad6a3d47-fa16-4382-b22d-9d2ec8998b8c#productid=OFFI1164387046186463232)
 
 # 商品说明
 
