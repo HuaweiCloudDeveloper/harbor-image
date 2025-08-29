@@ -2,7 +2,7 @@
 
 ## 规格说明
 
-- 镜像商品：[Harbor-容器镜像仓库管理工具]()
+- 镜像商品：[Harbor-容器镜像仓库管理工具](https://marketplace.huaweicloud.com/hidden/contents/ad6a3d47-fa16-4382-b22d-9d2ec8998b8c#productid=OFFI1164387046186463232)
 - 镜像规格：Harbor2.13.0-kunpeng-v1.0
 - 预置环境：Harbor2.13.0
 - 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
